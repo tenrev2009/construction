@@ -1,0 +1,22 @@
+### Lingvo file for #HolePunchTool.rb
+### EN-US default file by TIG
+### PROMPTS...
+No Selection. Select Punching Component(s).<==>没有选择。选择开洞组件(s).
+Exiting.<==>退出.
+No Suitable Punching Component(s) Selected.<==>没有合适的开洞组件（S）选择.
+Hole Punching<==>开洞
+Undo Hole Punching<==>撤消开洞
+Unlink Hole Punching<==>取消链接开洞
+Max.Depth: <==>最大深度: 
+Depth must be > 0<==>深度必须 > 0
+Try Again...<==>再试一次...
+Reglue<==>重新粘合
+Redo Hole Punching<==>取消复原开洞
+Fix Duplicates<==>修正重复
+### MENU...
+Set Depth<==>设置深度
+Punch<==>开洞
+Undo Punch<==>撤消开洞
+Unlink Punch<==>取消链接开洞
+Redo Punch<==>取消复原开洞
+### EOF
